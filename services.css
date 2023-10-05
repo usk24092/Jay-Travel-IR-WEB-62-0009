@@ -1,0 +1,84 @@
+/* nav bar-------------------------------------------------------------------------------------------------------------------- */
+.navbarcss {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbarcss h1{
+    color: orangered;
+}
+
+.navbarcss a {
+    color: rgb(255, 255, 255);
+}
+
+.navbarcss a:hover {
+    color: orangered;
+}
+
+.headh1{
+    color: orangered;
+}
+
+.intropara{
+    padding-left: 80px;
+    padding-right: 80px;
+    font-weight: 500;
+}
+
+/* card-------------------------------------------------------------------------------------------------------------------- */
+.cardsize{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cardsize a{
+    background-color: rgb(25, 71, 85);
+    border-color: rgb(25, 71, 85);
+    color: orangered;
+    font-weight: 500;
+}
+
+.cardsize a:hover{
+    background-color: rgba(25, 71, 85, 0);
+    color: orangered;
+    border-color: rgb(25, 71, 85);
+}
+
+.card1{
+
+}
+
+.copyright {
+    background-color: black;
+    color: rgb(230, 230, 230);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* footer-------------------------------------------------------------------------------------------------------------------- */
+.footer {
+    background-color: rgb(11, 47, 58);
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.footer h4 {
+    font-size: small;
+    padding-bottom: 30px
+}
+
+.footer p {
+    font-size: smaller;
+    margin-top: -10px;
+}
+
+.footer table tr td img {
+    padding-right: 20px;
+}
+
+.footer table tr td p {
+    line-height: 18px;
+}

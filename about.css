@@ -1,0 +1,67 @@
+/* nav bar-------------------------------------------------------------------------------------------------------------------- */
+.navbarcss {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbarcss h1{
+    color: orangered;
+}
+
+.navbarcss a {
+    color: rgb(255, 255, 255);
+}
+
+.navbarcss a:hover {
+    color: orangered;
+}
+
+.headh1{
+    color: orangered;
+}
+
+.copyright {
+    background-color: black;
+    color: rgb(230, 230, 230);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* footer-------------------------------------------------------------------------------------------------------------------- */
+.footer {
+    background-color: rgb(11, 47, 58);
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.footer h4 {
+    font-size: small;
+    padding-bottom: 30px
+}
+
+.footer p {
+    font-size: smaller;
+    margin-top: -10px;
+}
+
+.footer table tr td img {
+    padding-right: 20px;
+}
+
+.footer table tr td p {
+    line-height: 18px;
+}
+
+/* intro-------------------------------------------------------------------------------------------------------------------- */
+.intro p{
+    font-weight: 500;
+}
+
+
+.subhead{
+    color: orangered;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
